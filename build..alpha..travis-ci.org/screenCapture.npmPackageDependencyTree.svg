@@ -498,7 +498,7 @@
 <tspan x="10" y="7930">  │ │ ├── xtend@4.0.1 </tspan>
 <tspan x="10" y="7946">  │ │ └── yallist@2.0.0 </tspan>
 <tspan x="10" y="7962">  │ ├─┬ latest-version@3.1.0 </tspan>
-<tspan x="10" y="7978">  │ │ └─┬ package-json@4.0.0 </tspan>
+<tspan x="10" y="7978">  │ │ └─┬ package-json@4.0.1 </tspan>
 <tspan x="10" y="7994">  │ │   ├─┬ got@6.7.1 </tspan>
 <tspan x="10" y="8010">  │ │   │ ├─┬ create-error-class@3.0.2 </tspan>
 <tspan x="10" y="8026">  │ │   │ │ └── capture-stack-trace@1.0.0 </tspan>
