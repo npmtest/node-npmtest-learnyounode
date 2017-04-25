@@ -513,7 +513,7 @@
 <tspan x="10" y="8170">  │ │   │ ├── unzip-response@2.0.1 </tspan>
 <tspan x="10" y="8186">  │ │   │ └─┬ url-parse-lax@1.0.0 </tspan>
 <tspan x="10" y="8202">  │ │   │   └── prepend-http@1.0.4 </tspan>
-<tspan x="10" y="8218">  │ │   ├─┬ registry-auth-token@3.1.2 </tspan>
+<tspan x="10" y="8218">  │ │   ├─┬ registry-auth-token@3.3.0 </tspan>
 <tspan x="10" y="8234">  │ │   │ └─┬ rc@1.2.1 </tspan>
 <tspan x="10" y="8250">  │ │   │   ├── deep-extend@0.4.1 </tspan>
 <tspan x="10" y="8266">  │ │   │   ├── ini@1.3.4 </tspan>
